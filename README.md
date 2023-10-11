@@ -14,7 +14,8 @@ Je suis à la recherche de personnes qui partagent leur savoir sans limite et qu
 J'aime la science et je suis passionné par le développement personnel. Je crois en la collaboration et en l'apprentissage mutuel.
 # 📫 Comment me contacter
 Si vous souhaitez discuter, partager des conseils ou collaborer, n'hésitez pas à me contacter :
-- Email : Aminefokker@gmail.com
+Email : Aminefokker@gmail.com
+  
 Merci de prendre le temps de me lire et d'explorer mon profil. Ensemble, nous pouvons apprendre et grandir dans le monde de la technologie et de la science. 🚀
 
 <!---
